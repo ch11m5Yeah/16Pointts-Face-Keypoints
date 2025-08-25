@@ -24,7 +24,6 @@ The architecture features a compact backbone and a **YOLO-style region-wise regr
 
 - Uses **LabelMe** annotation format  
 - **Requirement:** Each annotation JSON file **must include the original image**  
-  - Either as a **base64-encoded image** embedded in the JSON, or as a **path pointing to the image file**  
 - To train on your own dataset, modify the files in the `dataset` folder  
 
 ## Training
